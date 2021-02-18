@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>VScode on Even - A super concise theme for Hugo</title>
+    <link>https://163168.xyz/categories/vscode/</link>
+    <description>Recent content in VScode on Even - A super concise theme for Hugo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Mon, 15 Feb 2021 15:55:32 +0000</lastBuildDate><atom:link href="https://163168.xyz/categories/vscode/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>VScode简单教程</title>
+      <link>https://163168.xyz/posts/28.html/</link>
+      <pubDate>Mon, 15 Feb 2021 15:55:32 +0000</pubDate>
+      
+      <guid>https://163168.xyz/posts/28.html/</guid>
+      <description>安装Visual Studio Code写文章及部署到github 下载地址： https://code.visualstudio.com/ 修改成中文 1）打开vscode工具； 2）使用快捷键组合【Ctrl+Shift</description>
+    </item>
+    
+  </channel>
+</rss>
